@@ -1,0 +1,11 @@
+@import "bootstrap/scss/bootstrap";
+
+
+$colorPrimario: #82005E;
+$colorSecundario: #3D4D59;
+
+body {
+    color: $colorPrimario;
+
+    font: $colorSecundario;
+}
